@@ -1,2 +1,3 @@
 # Thesis-TEM
-Exhaustive sample of acquired TEM micrographs
+Representative sample of acquired TEM micrographs for SAED and HREM analysis
+
